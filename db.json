@@ -2,8 +2,7 @@
    {  
       "name":"Köln, USB",
       "type":"Institution",
-      "federal":"North Rhine- 
-Westphalia",
+      "federal":"North Rhine-Westphalia",
       "cost":"22222.0"
    },
    {  
@@ -15,8 +14,7 @@ Westphalia",
    {  
       "name":"Köln, USB",
       "type":"Institution",
-      "federal":"North Rhine- 
-Westphalia",
+      "federal":"North Rhine-Westphalia",
       "cost":"33333.0"
    },
    {  
@@ -26,8 +24,7 @@ Westphalia",
       "cost":"4444.04"
    },
    {  
-      "name":"Saarbrücken, 
-SULB",
+      "name":"Saarbrücken, SULB",
       "type":"Institution",
       "federal":"Saarland",
       "cost":"5555"
@@ -39,8 +36,7 @@ SULB",
       "cost":"0.0"
    },
    {  
-      "name":"Saarbrücken, 
-SULB",
+      "name":"Saarbrücken,SULB",
       "type":"Institution",
       "federal":"Saarland",
       "cost":"77777.0"
