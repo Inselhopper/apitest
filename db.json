@@ -1,32 +1,34 @@
-[  
-   {  
-      "name":"Köln, USB",
-      "type":"Institution",
-      "federal":"North Rhine-Westphalia",
-      "cost":"22222.0"
-   },
-   {  
-      "name":"Köln, USB",
-      "type":"Institution",
-      "federal":"North Rhine-Westphalia",
-      "cost":"11111.0"
-   },
-   {  
-      "name":"Köln, USB",
-      "type":"Institution",
-      "federal":"North Rhine-Westphalia",
-      "cost":"33333.0"
-   },
-   {  
-      "name":"Saarbrücken, SULB",
-      "type":"Institution",
-      "federal":"Saarland",
-      "cost":"4444.04"
-   },
-   {  
-      "name":"Saarbrücken, SULB",
-      "type":"Institution",
-      "federal":"Saarland",
-      "cost":"5555"
-   }
-]
+{ 
+   "posts": [
+      {  
+         "name":"Köln, USB",
+         "type":"Institution",
+         "federal":"North Rhine-Westphalia",
+         "cost":"22222.0"
+      },
+      {  
+         "name":"Köln, USB",
+         "type":"Institution",
+         "federal":"North Rhine-Westphalia",
+         "cost":"11111.0"
+      },
+      {  
+         "name":"Köln, USB",
+         "type":"Institution",
+         "federal":"North Rhine-Westphalia",
+         "cost":"33333.0"
+      },
+      {  
+         "name":"Saarbrücken, SULB",
+         "type":"Institution",
+         "federal":"Saarland",
+         "cost":"4444.04"
+      },
+      {  
+         "name":"Saarbrücken, SULB",
+         "type":"Institution",
+         "federal":"Saarland",
+         "cost":"5555"
+      }
+   ]
+}
